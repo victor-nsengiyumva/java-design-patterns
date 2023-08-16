@@ -4,7 +4,6 @@ public class King extends Fighter {
         super(kickBehaviour, jumpBehaviour);
     }
 
-    
     @Override
     public void display(){
         System.out.println("HI, i am king");
@@ -12,6 +11,6 @@ public class King extends Fighter {
 
     @Override
     public void roll(){
-        
+
     }
 }

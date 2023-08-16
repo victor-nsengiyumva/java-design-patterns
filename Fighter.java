@@ -8,11 +8,11 @@ public class Fighter{
                 this.kickBehaviour = kickBehaviour;
     }
 
-    public void setKickBehaviour(KickBehaviour kickBehaviour) {
+    public void setKickStrategy(KickBehaviour kickBehaviour) {
         this.kickBehaviour = kickBehaviour;
     }
 
-    public void setJumpBehaviour(JumpBehaviour jumpBehaviour) {
+    public void setJumpStrategy(JumpBehaviour jumpBehaviour) {
         this.jumpBehaviour = jumpBehaviour;
     }
 
