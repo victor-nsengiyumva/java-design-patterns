@@ -15,6 +15,5 @@ class TornadoKick implements KickBehaviour {
     @Override
     public void kick() {
         System.out.println("This is a Tornado kick");
-
     }
 }
